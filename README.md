@@ -1,5 +1,5 @@
 # hello-world
-thank you.edit file.
+thank you. edit file.
 I'm writing.
 askdjfdksla;hf
 xcv
